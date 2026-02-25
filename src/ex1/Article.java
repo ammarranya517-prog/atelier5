@@ -1,7 +1,7 @@
 package ex1;
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;
-
+//commentaire
 public class Article extends Document{
 	private LocalDateTime date_cree;
 	private LocalDateTime date_maj;
